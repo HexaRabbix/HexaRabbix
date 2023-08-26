@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      
+      <a href="index.html">Home</a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href="index.html">How to Join</a>‎ ‎ ‎ ‎ ‎ ‎‎  ‎  <a href="index.html">About Us</a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href=index.html">Our Discord Server</a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href=index.html">Myrons Social Media</a>‎
 </head>
 <body>
     <header>
@@ -33,6 +33,23 @@
         <h2>How to donate and purchase Ranks</h2>
         <p>You can purchase Ranks and Support us on Discord, just open up a Ticket and a Supporter will take care of you.</p>
         <html lang="en">
+        </head>
+<body>
+    <header>
+        <h1>Welcome to MyronSMP Minecraft Server</h1>
+        <p>Join the adventure in our multiplayer world!</p>
+    </header>
+    <div class="container">
+        <a href="index.html">Home</a>
+        <h2>About Us</h2>
+        <a href="index.html">Back to Home</a>
+    </div>
+    <footer>
+        <p>&copy; 2023 MyronSMP Minecraft Server</p>
+    </footer>
+</body>
+</html>
+
 
 
 </html>
