@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <a href="index.html">Home</a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href="index.html">How to Join</a>‎ ‎ ‎ ‎ ‎ ‎‎  ‎  <a href="index.html">About Us</a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href=index.html">Our Discord Server</a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href=index.html">Myrons Social Media</a>‎
+‎ ‎ ‎ ‎ <a href="index.html">About Us</a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href=index.html">Our Discord Server</a>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href=index.html">Myrons Social Media</a>‎
 </head>
 <body>
     <header>
@@ -12,7 +12,7 @@
     </header>
     <div class="container">
         <h2>About Us</h2>
-        <p>Welcome to MyronSMP, a Minecraft server where players can gather, explore, and build together in a fun and friendly environment. Immerse yourself in a world of creativity and cooperation as you embark on exciting adventures with fellow players.</p>
+        <p>Welcome to MyronSMP, a Minecraft server where players can gather, explore, and build together in a fun and friendly environment. Immerse yourself in a world of creativity and cooperation as you embark on exciting adventures with fellow players. Our Minecraft Server is a new Projekt from Myron and his Team. We are trying to build a good and strong Minecraft Community if you are intressted in joining look at <a href="index.html">How to Join</a>. </p>
         <h2>Server Features</h2>
         <ul>
             <li>🌍 Custom biomes and landscapes to explore</li>
@@ -40,7 +40,6 @@
         <p>Join the adventure in our multiplayer world!</p>
     </header>
     <div class="container">
-        <a href="index.html">Home</a>
         <h2>About Us</h2>
         <a href="index.html">Back to Home</a>
     </div>
