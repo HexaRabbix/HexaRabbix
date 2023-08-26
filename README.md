@@ -15,8 +15,9 @@
         <p>Welcome to MyronSMP, a Minecraft server where players can gather, explore, and build together in a fun and friendly environment. Immerse yourself in a world of creativity and cooperation as you embark on exciting adventures with fellow players. Our Minecraft Server is a new Projekt from Myron and his Team. We are trying to build a good and strong Minecraft Community if you are intressted in joining look at <a href="index.html">How to Join</a>. </p>
         <body>
     <header>
+        <h1> 
         <h2>Server Features</h2>
-        <ul>
+        <hl>Joining MyronSMP is easy! Launch Minecraft and add our server IP to your server list: <strong>play.myronsmp.com</strong></hl>
             <li>🌍 Custom biomes and landscapes to explore</li>
             <li>🤝 Friendly and active community that welcomes everyone</li>
             <li>🎉 Exciting events and challenges for all players</li>
