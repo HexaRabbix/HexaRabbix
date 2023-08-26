@@ -3,50 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MyronSMP Minecraft Server</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        header {
-            background-color: #35424a;
-            color: white;
-            text-align: center;
-            padding: 2rem;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 2rem;
-            color: #6b38df;
-        }
-        .discord-link {
-            display: inline-block;
-            background-color: #7289da;
-            color: white;
-            padding: 10px 20px;
-            border-radius: 5px;
-            text-decoration: none;
-        }
-        .minecraft-images {
-            text-align: center;
-            margin-top: 2rem;
-        }
-        .minecraft-image {
-            max-width: 100%;
-            height: auto;
-            margin: 1rem;
-        }
-        footer {
-            text-align: center;
-            padding: 1rem;
-            background-color: #35424a;
-            color: white;
-        }
-    </style>
+      
 </head>
 <body>
     <header>
