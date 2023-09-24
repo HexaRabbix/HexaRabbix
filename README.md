@@ -12,7 +12,7 @@
     </header>
     <div class="container">
         <h2>About Us</h2>
-        <p>Welcome to MyronSMP, a Minecraft server where players can gather, explore, and build together in a fun and friendly environment. Immerse yourself in a world of creativity and cooperation as you embark on exciting adventures with fellow players. Our Minecraft Server is a new Projekt from Myron and his Team. We are trying to build a good and strong Minecraft Community if you are intressted in joining look at <a href="Your can join our Project by joining our Discord">How to Join</a>. </p>
+        <p>Welcome to MyronSMP, a Minecraft server where players can gather, explore, and build together in a fun and friendly environment. Immerse yourself in a world of creativity and cooperation as you embark on exciting adventures with fellow players. Our Minecraft Server is a new Projekt from Myron and his Team. We are trying to build a good and strong Minecraft Community if you are intressted in joining look at <a href="Your can join our Project by joining our Discord"> asdasdaHow to Join</a>. </p>
         <body>
     <header>
         Joining MyronSMP is easy! Launch Minecraft and add our server IP to your server list: <strong>play.myronsmp.com</strong>
